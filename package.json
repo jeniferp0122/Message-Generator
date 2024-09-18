@@ -1,0 +1,13 @@
+{
+  "name": "messagegenerator",
+  "version": "1.0.0",
+  "description": "## Premise In this project, you’ll build a message generator program that outputs a new, random message every time a user runs the program. Your program should showcase JavaScript syntax and programming concepts. You can take the project in several forms, like an astrology generator, inspirational message, or nonsensical jokes. To make your program truly random, the message it outputs should comprise at least three different pieces of data.",
+  "main": "index.js",
+  "type": "module",  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
